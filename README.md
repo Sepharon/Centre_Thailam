@@ -1,2 +1,4 @@
 # Centre_Thailam
-Pagina web centre thailam
+This is a personal project.
+
+Nothing to really commit here unless you are bored as fuck

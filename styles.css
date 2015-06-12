@@ -1,0 +1,106 @@
+h1{
+    color:#333; 
+    /* Canviar lletra i color */
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:80px; 
+    text-align:center;
+    vertical-align:middle;
+}
+
+h2{
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:30pt;
+}
+
+h3{
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:12pt;
+    margin-top: 20px;
+  	margin-bottom: 10px;
+    text-align:left;
+}
+
+h4{
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+  	margin-bottom: 10px;
+    font-size:12pt;
+    text-align:center;
+}
+
+h5{
+    color:black;
+    margin-top: 20px;
+  	margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size:12pt;
+    text-align:right;
+}
+
+
+body{
+	/*Canviar color de fons*/
+    background-color: white;
+}
+
+table, th, td {
+    border: 0;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th:hover {
+    background-color: #E0ECF8;
+}
+"""td{
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+td img{width: 100%}
+table {margin:0 auto}
+"""
+
+#rodo{
+    border-radius: 80px;
+   
+} 
+/*Color fons titul*/
+#top1{
+    width: 100%;
+    padding: 1px;
+    background: #33FF33;
+}
+
+
+#grup{
+    padding: 500px;
+}
+
+.foto1{
+    border-radius: 120px;
+    width: 180px;
+    height: 180px;
+    float: left;
+}
+
+.foto2{
+    border-radius: 120px;
+    width: 150px;
+    height: 150px;
+    float: center;
+}
+
+.foto3{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    float: right;
+}
